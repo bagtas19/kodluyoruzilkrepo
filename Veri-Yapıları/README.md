@@ -1,6 +1,6 @@
 # Veri yapıları odev 
 
-* Proje 1
+## Proje 1
 
 Verilen dizi: [22, 27, 16, 2, 18, 6]
 
@@ -35,7 +35,7 @@ Verilen dizi: [7, 3, 5, 8, 2, 9, 4, 15, 6]
 
 ---
 
-* Proje 2
+## Proje 2
 
 Verilen dizi: [16, 21, 11, 8, 12, 22]
 
@@ -60,3 +60,15 @@ Verilen dizi: [16, 21, 11, 8, 12, 22]
 Merge Sort'un time complexity'si O(nlogn)
 
 ---
+
+## Proje 3
+
+Verilen dizi: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+        7
+       / \
+      5   8
+     /|   |\
+    1 3   6 9
+   /|   \
+  0 4    2
